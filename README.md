@@ -1,4 +1,5 @@
- Hello, This is Gopala Gabbita![image](https://github.com/gopalagabbita/gopalagabbita/assets/107900800/8b6fd671-1cdc-486b-92f9-254e38b0e188)
+ Hello, This is Gopala Gabbita ![wave](https://github.com/gopalagabbita/gopalagabbita/assets/107900800/6c078651-4b74-4061-befd-f3228d9f1ae0)
+
 
  Tech Stack ⚙️
 
@@ -24,13 +25,6 @@ Operating System
 
 
 
-https://github.com/gopalagabbita/gopalagabbita/assets/107900800/756f08da-ddac-41cd-b257-538549e2ca3b
-
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gopalagabbita)](https://git.io/streak-stats)
  
-
-
 
  
