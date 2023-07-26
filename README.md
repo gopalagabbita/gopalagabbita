@@ -1,5 +1,5 @@
  Hello, My Name is Gopala Gabbita
 
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+<a href=”https://www.linkedin.com/in/gopalagabbita/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
  
  
