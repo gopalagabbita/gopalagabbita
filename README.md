@@ -22,7 +22,11 @@ Operating System
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-https://www.canva.com/design/DAFpxKgzkOw/UZdKJvX6RvS-VPYddopfFg/watch?utm_content=DAFpxKgzkOw&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel
+
+
+https://github.com/gopalagabbita/gopalagabbita/assets/107900800/756f08da-ddac-41cd-b257-538549e2ca3b
+
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=gopalagabbita)](https://git.io/streak-stats)
  
