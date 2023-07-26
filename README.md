@@ -1,3 +1,6 @@
- Hi, I’m Gopala Gabbita
+ Hello, My Name is Gopala Gabbita
 
-![image](https://user-images.githubusercontent.com/107900800/174707860-b8c2e502-0192-4f8d-9808-9fa641fe9b12.png)
+
+<img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
+ 
+ 
