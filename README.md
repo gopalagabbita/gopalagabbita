@@ -1,6 +1,4 @@
- Hello, This is Gopala Gabbita ![wave](https://github.com/gopalagabbita/gopalagabbita/assets/107900800/6c078651-4b74-4061-befd-f3228d9f1ae0)
-
-
+ Hello, Welcome to my GitHub Profile 
  Tech Stack ⚙️
 
  Cloud
