@@ -1,5 +1,4 @@
- Hello, Welcome to my GitHub Profile 
- 
+👋 Hello, I’m Gopala Gabbita, Welcome to my GitHub Profile 
  
  Tech Stack ⚙️
 
