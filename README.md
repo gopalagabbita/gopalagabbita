@@ -1,7 +1,7 @@
 # Hi, I'm Gopala 👋
 
 DevOps Engineer | Cloud Architect | Automation Specialist  
-Based in Austin, TX | Open to global opportunities
+Based in Hyderabad, India | Open to global opportunities
 
  **Skills:**  
 AWS | Azure | Terraform | Kubernetes | GitHub Actions | Python | CI/CD | CloudFormation | Ansible
